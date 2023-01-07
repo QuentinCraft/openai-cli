@@ -34,7 +34,7 @@ Versions :
 
 
 ```text
-Copyrights EQ-0 / CPU64x - 2022, All Rights Reserved
+Copyrights EQ-0 / CPU64x - 2023, All Rights Reserved
 
    __ ___________________            _______    __   
   / / \_   _____/\_____  \           \   _  \   \ \  

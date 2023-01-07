@@ -1,6 +1,6 @@
 # OPENAPI-CLI
 
-request openai (ChatGPT) more easily from any terminal.  
+Request openai (ChatGPT) more easily from any terminal.  
 
 <br>
 
@@ -8,6 +8,8 @@ Versions :
 
 | Version | Released Date | Latest |
 | :---:   | :---:         | :----: |
+| v1.0    | 07.01.2023    |        |
+| v1.1    | 07.01.2023    |        |
 | v1.2    | 07.01.2023    |  X     |
 
 ## Compatibility

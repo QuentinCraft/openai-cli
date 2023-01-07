@@ -6,7 +6,7 @@ sudo apt-get install python3 python3-pip -y >> ./install.log
 echo " : done !"
 
 echo -n "Installing requirements..."
-pip install -r ./requirements.txt --no-warn-script-location >> ./install.log
+sudo pip install -r ./requirements.txt --no-warn-script-location >> ./install.log
 echo " : done !"
 
 echo -n "Adding to PATH..."

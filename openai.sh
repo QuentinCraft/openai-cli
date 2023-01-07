@@ -1,0 +1,1 @@
+python3 openai-cli.py $1

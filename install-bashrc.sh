@@ -12,7 +12,6 @@ echo " : done !"
 echo -n "Adding to PATH..."
 echo "### OPENAI : " >> /home/$(whoami)/.bashrc
 echo "alias openai='sh $(pwd)/openai.sh $1'" >> /home/$(whoami)/.bashrc
-source ~/.bashrc
 echo " : done !"
 
 echo "OPENAI-CLI now installed !"

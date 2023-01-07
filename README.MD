@@ -8,14 +8,14 @@ Versions :
 
 | Version | Released Date | Latest |
 | :---:   | :---:         | :----: |
-| v1.0    | 07.01.2023    |  X     |
+| v1.1    | 07.01.2023    |  X     |
 
 ## Compatibility
 
 | Operating System | Version Needed |
 | :---:            | :---:          |
-| Windows 10/11    | v1.0           |
-| Linux (APT-GET) / BASH  | v1.0    |
+| Windows 10/11    | v1.1           |
+| Linux (APT-GET)  | v1.1    |
 
 ## Install on 
 ### Linux

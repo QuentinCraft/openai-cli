@@ -1,6 +1,6 @@
 # OPENAPI-CLI
 
-request openai more easily from any terminal.  
+request openai (ChatGPT) more easily from any terminal.  
 
 <br>
 

@@ -17,21 +17,17 @@ Versions :
 | Windows 10/11    | v1.0           |
 | Linux (APT-GET) / BASH  | v1.0    |
 
-## Install on Linux
+## Install on 
+### Linux
 > ./install.sh
-
-## Launch on Linux
-> openai "Hello"
-
-## Install on Windows
+### Windows
 > ./install.bat
 
-## Launch on Windows
-> openai "hello"
-
-## How to launch OPENAI-CLI
-> python openai-cli.py
-
+## Launch on
+### Linux
+> openai "Hello"
+### Windows
+> openai "hello"   
 
 ```text
 Copyrights EQ-0 / CPU64x - 2023, All Rights Reserved

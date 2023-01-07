@@ -1,1 +1,1 @@
-python3 openai-cli.py $1
+python3 ./openai-cli.py $1
